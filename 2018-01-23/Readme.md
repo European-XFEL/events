@@ -35,4 +35,5 @@ XFEL.
 * 14:30 Detectors and Calibration (S Hauff)
 * 15:15 Break
 * 15:45 Offline and Online Data analysis at XFEL (T Michelat)
-* 16:30 Discussion and close
+* 16:30 Discussion
+* 17:00 Close
