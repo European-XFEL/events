@@ -52,5 +52,5 @@ available to help participants with the practical exercises.
   through the usual distribution channels, such as [Anaconda](http://continuum.io/downloads).
 
   If you have trouble installing Anaconda,
-  [this blog entry](https://fangohr.github.io/blog/installation-of-python-spyder-numpy-sympy-scipy-pytest-matplotlib-via-anaconda.html#running-the-tests-with-spyder) may
+  [this blog entry](https://fangohr.github.io/blog/installation-of-python-spyder-numpy-sympy-scipy-pytest-matplotlib-via-anaconda.html) may
   help.
