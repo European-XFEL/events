@@ -29,10 +29,10 @@ XFEL.
 
 ### Draft agenda (afternoon)
 
-14:00 Welcome (S Brockhauser)
-14:05 Introduction to Karabo (L Mekinda)
-14:20 Overview to data analysis infrastructure (H Fangohr)
-14:30 Detectors and Calibration (S Hauff)
-15:15 Break
-15:45 Offline and Online Data analysis at XFEL (T Michelat)
-16:30 Discussion and close
+* 14:00 Welcome (S Brockhauser)
+* 14:05 Introduction to Karabo (L Mekinda)
+* 14:20 Overview to data analysis infrastructure (H Fangohr)
+* 14:30 Detectors and Calibration (S Hauff)
+* 15:15 Break
+* 15:45 Offline and Online Data analysis at XFEL (T Michelat)
+* 16:30 Discussion and close
