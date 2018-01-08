@@ -23,8 +23,8 @@ You can [try the jupyter notebook in your browser](http://try.jupyter.org).
 ## Requirements
 
 1. Please register your interest to attend the morning session at
-   DOODLE POLL. We have only 40 spaces available for this hands-on
-   part of the workshop.
+   DOODLE POLL (TO BE ADDED). We have only 40 spaces available for
+   this hands-on part of the workshop.
 
 2. We ask participants to install the Anaconda Python distribution
    *in advance* of the workshop. See [Installation](#installation) below.
