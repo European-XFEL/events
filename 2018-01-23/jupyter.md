@@ -35,12 +35,11 @@ You can [try the jupyter notebook in your browser](http://try.jupyter.org).
 
 ## Workshop content (draft)
 
-- main concept
-- notebook basics
-- IPython - beyond plain python
-- Markdown Cells
-- Rich Display System
-- ...?
+- Notebook interface: code cells & markdown cells
+- IPython - beyond plain Python
+- Rich display system
+- Notebook files and nbconvert
+- Sharing notebooks with Github, Nbviewer and Binder.
 
 ## Workshop format
 
