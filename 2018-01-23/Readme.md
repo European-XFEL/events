@@ -1,14 +1,14 @@
-# Satellite workshop on Data Analysis and Karabo (10:00-17:00), DRAFT
+# Satellite workshop on Data Analysis and Karabo DRAFT
 
-Tuesday 23 January 2018, at DESY, [FLASH Seminar room (building 28c)](https://www.google.de/maps/place/FLASH/@53.5804765,9.8796105,1213m/data=!3m2!1e3!4b1!4m5!3m4!1s0x47b1842e70501fed:0x8cc3df31f98c81f7!8m2!3d53.5804733!4d9.8818045)
+* Tuesday 23 January 2018, 10:00-17:00 at DESY, [FLASH Seminar room (building 28c)](https://www.google.de/maps/place/FLASH/@53.5804765,9.8796105,1213m/data=!3m2!1e3!4b1!4m5!3m4!1s0x47b1842e70501fed:0x8cc3df31f98c81f7!8m2!3d53.5804733!4d9.8818045)
 
-The event is part of
+* The event is part of
 the
 [2018 XFEL user meeting](https://indico.desy.de/indico/event/18831/)
 
 
-The data analysis workshop is split into two parts, which can be
-attended independently (or both together):
+* The data analysis workshop is split into two parts, which can be
+  attended independently (or both together):
 
 ## Morning session: Introduction to Jupyter Notebook (10:00-13:00)
 
