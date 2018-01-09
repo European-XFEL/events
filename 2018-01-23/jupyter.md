@@ -61,8 +61,8 @@ available to help participants with the practical exercises.
 
 ## Agenda
 
-10:00 Welcome (Hans Fangohr)
-10:05 Main session I ([Thomas Kluyver](http://cmg.soton.ac.uk/people/tk2e15/))
-11:15 Coffee break
-11:30 Main session II 
-13:00 Close
+- 10:00 Welcome (Hans Fangohr)
+- 10:05 Main session I ([Thomas Kluyver](http://cmg.soton.ac.uk/people/tk2e15/))
+- 11:15 Coffee break
+- 11:30 Main session II 
+- 13:00 Close
