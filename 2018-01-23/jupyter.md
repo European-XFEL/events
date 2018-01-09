@@ -38,8 +38,9 @@ You can [try the jupyter notebook in your browser](http://try.jupyter.org).
 - Notebook interface: code cells & markdown cells
 - IPython - beyond plain Python
 - Rich display system
+- Interactive widgets in notebook output
 - Notebook files and nbconvert
-- Sharing notebooks with Github, Nbviewer and Binder.
+- Sharing notebooks with Github, Nbviewer and Binder
 
 ## Workshop format
 
