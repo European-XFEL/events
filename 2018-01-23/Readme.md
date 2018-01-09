@@ -1,4 +1,4 @@
-# Satellite workshop on Data Analysis and Karabo DRAFT
+# Satellite workshop on Data Analysis and Karabo 
 
 * Tuesday 23 January 2018, 10:00-17:00 at DESY, [FLASH Seminar room (building 28c)](https://www.google.de/maps/place/FLASH/@53.5804765,9.8796105,1213m/data=!3m2!1e3!4b1!4m5!3m4!1s0x47b1842e70501fed:0x8cc3df31f98c81f7!8m2!3d53.5804733!4d9.8818045)
 
@@ -29,7 +29,7 @@ control, and online and offline data analysis provision at European
 XFEL.
 
 
-### Draft agenda (afternoon)
+### Agenda (afternoon)
 
 * 14:00 Welcome (S Brockhauser)
 * 14:05 Introduction to Karabo (L Mekinda)
@@ -37,7 +37,7 @@ XFEL.
 * 14:30 Detectors and Calibration (S Hauf)
 * 15:15 Break
 * 15:45 Offline and Online Data analysis at XFEL (T Michelat)
-* 16:30 Discussion
+* 16:30 Discussion (S Brockhauser)
 * 17:00 Close
 
 ![FLASH seminar room](flash-seminar-room.jpg)
