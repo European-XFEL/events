@@ -35,12 +35,11 @@ You can [try the jupyter notebook in your browser](http://try.jupyter.org).
 
 ## Workshop content (draft)
 
-- main concept
-- notebook basics
-- IPython - beyond plain python
-- Markdown Cells
-- Rich Display System
-- ...?
+- Notebook interface: code cells & markdown cells
+- IPython - beyond plain Python
+- Rich display system
+- Notebook files and nbconvert
+- Sharing notebooks with Github, Nbviewer and Binder.
 
 ## Workshop format
 
@@ -51,8 +50,10 @@ available to help participants with the practical exercises.
 ## Installation
 
 * Use Python 3.x
-* Jupyter, including the Notebook and IPython. It should be available
-  through the usual distribution channels, such as [Anaconda](http://continuum.io/downloads).
+* Jupyter Notebook and IPython. We recommend installing
+  [Anaconda](http://continuum.io/downloads) if you're new to Python, but
+  there are other options for experienced Python users; see [Jupyter's install
+  page](http://jupyter.org/install.html).
 
   If you have trouble installing Anaconda,
   [this blog entry](https://fangohr.github.io/blog/installation-of-python-spyder-numpy-sympy-scipy-pytest-matplotlib-via-anaconda.html) may
