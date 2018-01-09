@@ -18,7 +18,9 @@ participants to bring laptops. This is suitable for those with some
 programming experience, and assumes no prior knowledge of the Jupyter
 Notebook. See [here for details](jupyter.md).
 
-## Lunch (13:00 - 14:00)
+### Lunch (13:00 - 14:00)
+
+Everybody is invited for lunch and networking from 13:00 to 14:00.
 
 ## Afternoon session: Karabo and Data Analysis at XFEL (14:00-17:00)
 
