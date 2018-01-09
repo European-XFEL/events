@@ -37,3 +37,6 @@ XFEL.
 * 15:45 Offline and Online Data analysis at XFEL (T Michelat)
 * 16:30 Discussion
 * 17:00 Close
+
+![FLASH seminar room](flash-seminar-room.jpg)
+
