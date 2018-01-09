@@ -1,6 +1,6 @@
 # Satellite workshop on Data Analysis and Karabo (10:00-17:00), DRAFT
 
-Tuesday 23 January 2018, at DESY, [FLASH Seminar room (building 28c)](https://www.google.de/maps/place/German+Electron+Synchrotron+DESY/@53.5789627,9.8819302,606m/data=!3m1!1e3!4m5!3m4!1s0x47b18432319c54af:0x3952ed73e492578f!8m2!3d53.5730276!4d9.8809845)
+Tuesday 23 January 2018, at DESY, [FLASH Seminar room (building 28c)](https://www.google.de/maps/place/FLASH/@53.5804765,9.8796105,1213m/data=!3m2!1e3!4b1!4m5!3m4!1s0x47b1842e70501fed:0x8cc3df31f98c81f7!8m2!3d53.5804733!4d9.8818045)
 
 The event is part of
 the
