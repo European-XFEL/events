@@ -2,6 +2,8 @@
 
 23 January 2018, 10:00 - 13:00
 
+Delivered by Thomas Kluyver from the Jupyter Developer Team
+
 ## Target audience
 
 This morning session will not be of interest to every participant of
@@ -17,21 +19,23 @@ they like writing code in Python. There is no assumption of prior
 knowledge of the notebook (although we assume some generic programming
 knowledge).
 
-You can [try the jupyter notebook in your browser](http://try.jupyter.org).
 
-
-## Requirements
+## Requirements (need to register to take part in morning workshop)
 
 1. Please register your interest to attend the morning session by
-   adding your name to this [Doodle
-   poll](https://doodle.com/poll/riv5bhat7qk6fyrq). We have only 40
-   spaces available for this hands-on part of the workshop, and if
-   demand is greater, we will allocate them in the order of the sign
-   up in the doodle poll.
+   adding your name (and ideally your email address to make it easier
+   for us to contact you) to this [Doodle
+   poll](https://doodle.com/poll/riv5bhat7qk6fyrq). Only you and Hans
+   Fangohr will be able to see the data.
+
+   We have only 40 spaces available for this hands-on part of the
+   workshop, and if demand is greater, we will allocate the 40 places
+   in the order of the sign up in the doodle poll.
+
+   Please complete this sign up by Thursday 18 January.
 
 2. We ask participants to install the Anaconda Python distribution
    *in advance* of the workshop. See [Installation](#installation) below.
-
 
 ## Workshop content (draft)
 
