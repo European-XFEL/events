@@ -20,24 +20,29 @@ knowledge of the notebook (although we assume some generic programming
 knowledge).
 
 
-## Requirements (need to register to take part in morning workshop)
+## Requirements for attendance
 
-1. Please register your interest to attend the morning session by
-   adding your name (and ideally your email address to make it easier
-   for us to contact you) to this [Doodle
-   poll](https://doodle.com/poll/riv5bhat7qk6fyrq). Only you and Hans
-   Fangohr will be able to see the data.
+### 1. Register via Doodle poll
 
-   We have only 40 spaces available for this hands-on part of the
-   workshop, and if demand is greater, we will allocate the 40 places
-   in the order of the sign up in the doodle poll.
+Please register your interest to attend the morning session by
+adding your name (and ideally your email address to make it easier
+for us to contact you) to this [Doodle
+poll](https://doodle.com/poll/riv5bhat7qk6fyrq). Only you and Hans
+Fangohr will be able to see the data.
 
-   Please complete this sign up by Thursday 18 January.
+We have only 40 spaces available for this hands-on part of the
+workshop, and if demand is greater, we will allocate the 40 places
+in the order of the sign up in the doodle poll.
 
-2. We ask participants to install the Anaconda Python distribution
-   *in advance* of the workshop. See [Installation](#installation) below.
+Please complete this sign up by Thursday 18 January.
 
-## Workshop content (draft)
+### 2. Install Jupyter Notebook software on your laptop
+
+We ask participants to install the Anaconda Python distribution
+*in advance* of the workshop on the laptop they intend to bring to 
+the session. See [Installation](#installation) below.
+
+## Workshop content 
 
 - Notebook interface: code cells & markdown cells
 - IPython - beyond plain Python
