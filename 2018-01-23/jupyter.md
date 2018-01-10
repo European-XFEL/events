@@ -7,7 +7,7 @@ Delivered by Thomas Kluyver from the Jupyter Developer Team
 ## Target audience
 
 This morning session will not be of interest to every participant of
-this satellite workshop on Karabo and data analysis:
+[the satellite workshop on Karabo and data analysis](Readme.md):
 
 This session introduces the [Jupyter Notebook](http://jupyter.org),
 not assuming any prior knowledge.  The Jupyter Notebook (with Python)
