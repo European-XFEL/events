@@ -6,9 +6,9 @@
 
 ## 14:00 Seminar
 
-Thomas Kluyver from the Jupyter team will give an overview of the
-Jupyter Notebook architecture and capabilities, tailored for
-programmers.
+[Thomas Kluyver](http://cmg.soton.ac.uk/people/tk2e15/) from the
+Jupyter team will give an overview of the Jupyter Notebook
+architecture and capabilities, tailored for programmers.
 
 ## 15:00 Hands-on activity 15:00 onwards (optional)
 
