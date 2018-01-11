@@ -8,7 +8,15 @@
 
 [Thomas Kluyver](http://cmg.soton.ac.uk/people/tk2e15/) from the
 Jupyter team will give an overview of the Jupyter Notebook
-architecture and capabilities, tailored for programmers.
+architecture and capabilities, tailored for programmers. This session for
+people already comfortable with using Jupyter will cover a range of
+extension points which you can use to integrate your own code and systems
+with Jupyter.
+
+If you want an introduction to the Jupyter Notebook, you should instead attend the
+[workshop the following day](https://github.com/European-XFEL/events/tree/master/2018-01-23)
+at DESY.
+
 
 ## 15:00 Hands-on activity 15:00 onwards (optional)
 
