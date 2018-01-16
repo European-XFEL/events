@@ -13,6 +13,8 @@ people already comfortable with using Jupyter will cover a range of
 extension points which you can use to integrate your own code and systems
 with Jupyter.
 
+Material for this seminar is at [github.com/takluyver/extending-jupyter-xfel-jan17](https://github.com/takluyver/extending-jupyter-xfel-jan17).
+
 If you want an introduction to the Jupyter Notebook, you should instead attend the
 [workshop the following day](https://github.com/European-XFEL/events/tree/master/2018-01-23)
 at DESY.
