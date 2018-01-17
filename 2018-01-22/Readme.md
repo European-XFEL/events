@@ -2,7 +2,7 @@
 
 * Monday 22 January 2018
 
-* Location: XFEL HeadQuarters, E2.096
+* Location: XFEL HeadQuarters, E2.097
 
 ## 14:00 Seminar
 
