@@ -51,6 +51,8 @@ the session. See [Installation](#installation) below.
 - Notebook files and nbconvert
 - Sharing notebooks with Github, Nbviewer and Binder
 
+Workshop materials: https://github.com/takluyver/jupyter-intro-xfel-jan17
+
 ## Workshop format
 
 Presentation will alternate with hands-on exercises; helpers will be
