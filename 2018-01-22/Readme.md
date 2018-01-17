@@ -20,7 +20,7 @@ If you want an introduction to the Jupyter Notebook, you should instead attend t
 at DESY.
 
 
-## 15:00 Hands-on activity 15:00 onwards (optional)
+## 15:00 Hands-on activity (optional)
 
 For those interested, a second part of the event is to explore
 together one particular topic of showing a "live scene" in the
