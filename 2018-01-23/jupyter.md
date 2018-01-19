@@ -66,6 +66,8 @@ available to help participants with the practical exercises.
   [Anaconda](http://continuum.io/downloads) if you're new to Python, but
   there are other options for experienced Python users; see [Jupyter's install
   page](http://jupyter.org/install.html).
+* The session will also use ipywidgets, matplotlib, pandas and SymPy.
+  If you install Anaconda, these are all included.
 
   If you have trouble installing Anaconda,
   [this blog entry](https://fangohr.github.io/blog/installation-of-python-spyder-numpy-sympy-scipy-pytest-matplotlib-via-anaconda.html) may
