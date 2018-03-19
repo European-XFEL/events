@@ -32,11 +32,11 @@ XFEL.
 ### Agenda (afternoon)
 
 * 14:00 Welcome (S Brockhauser)
-* 14:05 Overview to data analysis infrastructure (H Fangohr)
-* 14:15 Introduction to Karabo (G Flucke)
-* 14:30 Detectors and Calibration (S Hauf)
+* 14:05 [Overview to data analysis infrastructure](01-overview.pdf) (H Fangohr)
+* 14:15 [Introduction to Karabo](02-karabo.pdf) (G Flucke)
+* 14:30 [Detectors and Calibration](03-detectors-and-calibration.pdf) (S Hauf)
 * 15:15 Break
-* 15:45 Offline and Online Data analysis at XFEL (T Michelat)
+* 15:45 [Offline and Online Data analysis at XFEL](04-online-and-offline-data-analysis.pdf) (T Michelat)
 * 16:30 Discussion (S Brockhauser)
 * 17:00 Close
 
