@@ -24,6 +24,6 @@ analysis during the experiment and offline analysis after the experiments.
 * 15:10 [Data Management](04-data_management.pdf) (K Wrona)
 * 15:30 Break
 * 16:00 [Offline Data Analysis](https://bit.ly/2Hvuqcu) (M Bergemann)
-* 16:25 [Online Data Analysis](06-online_data_analysis.pdf) (T Michelat)
+* 16:25 [Online Data Analysis](06-online_analysis.pdf) (T Michelat)
 * 16:45 Discussion (S Brockhauser)
 * 17:00 Closing
