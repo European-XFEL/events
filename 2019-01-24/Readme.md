@@ -22,7 +22,7 @@ analysis during the experiment and offline analysis after the experiments.
 * 14:40 [Calibration](02-calibration.pdf) (S Hauf)
 * 15:10 [Data Management](03-data_management.pdf) (K Wrona)
 * 15:30 Break
-* 16:00 [Offline Data Analysis](04-offline_data_analysis/) (M Bergemann)
+* 16:00 [Offline Data Analysis](https://bit.ly/2Hvuqcu) (M Bergemann)
 * 16:25 [Online Data Analysis](05-online_data_analysis.pdf) (T Michelat)
 * 16:45 Discussion (S Brockhauser)
 * 17:00 Closing
