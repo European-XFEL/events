@@ -18,7 +18,7 @@ analysis during the experiment and offline analysis after the experiments.
 ### Agenda
 
 * 14:00 Welcome (S Brockhauser)
-* 14:02 [Overview Karabo Control and Data Analysis](01-overview.pdf) (Hans Fangohr)]
+* 14:02 [Overview Karabo Control and Data Analysis](01-overview.pdf) (Hans Fangohr)
 * 14:10 [Karabo Overview](02-karabo_overview.pdf) (G Flucke)
 * 14:40 [Calibration](03-calibration.pdf) (S Hauf)
 * 15:10 [Data Management](04-data_management.pdf) (K Wrona)
