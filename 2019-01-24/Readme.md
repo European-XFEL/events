@@ -21,7 +21,7 @@ analysis during the experiment and offline analysis after the experiments.
 * 14:02 [Overview Karabo Control and Data Analysis](01-overview.pdf) (Hans Fangohr)
 * 14:10 [Karabo Overview](02-karabo_overview.pdf) (G Flucke)
 * 14:40 [Calibration](03-calibration.pdf) (S Hauf)
-* 15:10 [Data Management](04-data_management.pdf) (K Wrona)
+* 15:10 [Data Management](04-data-management.pdf) (K Wrona)
 * 15:30 Break
 * 16:00 [Offline Data Analysis](https://bit.ly/2Hvuqcu) (M Bergemann)
 * 16:25 [Online Data Analysis](06-online_analysis.pdf) (T Michelat)
