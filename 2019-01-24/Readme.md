@@ -1,4 +1,4 @@
-# European XFEL Users’ Meeting - Satellite meeting
+# European XFEL Users’ Meeting 2019 - Satellite meeting
 
 * Thursday 24 January 2019, 14:00-17:00 at DESY, 
 [DESY Auditorium (Bldg. 5)](https://www.openstreetmap.org/node/4976770722)
